@@ -1,0 +1,4 @@
+(executable
+ (public_name passenc_ng)
+ (name main)
+ (libraries passenc_ng core ttweetnacl))
